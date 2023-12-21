@@ -1,7 +1,7 @@
 import telebot, wikipedia
 
 if __name__ == '__main__':
-    _url = "5766353345:AAEzoDnO55eLxQ82zb0tRHrAVLx16bYc69E"
+    _url = ""
     bot = telebot.TeleBot(_url)
 
     wikipedia.set_lang("ru")
